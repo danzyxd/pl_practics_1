@@ -1,3 +1,5 @@
+//Киреев Азамат БИСО-01-23
+
 ﻿#include <iostream>
 #include <windows.h>
 #include <stdio.h>
